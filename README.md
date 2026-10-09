@@ -4,7 +4,7 @@ An interactive Streamlit dashboard exploring customer churn patterns in a Europe
 
 ## Live dashboard
 
-[Open the live dashboard]: https://finance-with-simran-european-bank-churn-segmentation-app-ahbwvy.streamlit.app/
+[Open the live dashboard]:https://finance-with-simran-european-bank-churn-segmentation-app-ahbwvy.streamlit.app/
 
 ## Project objective
 
