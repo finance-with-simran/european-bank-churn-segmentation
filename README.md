@@ -2,9 +2,8 @@
 
 An interactive Streamlit dashboard exploring customer churn patterns in a European banking dataset. The project compares churn rates and customer counts across geography, age, tenure, product count, and activity.
 
-## Live dashboard
-
-[Open the live dashboard]:https://finance-with-simran-european-bank-churn-segmentation-app-ahbwvy.streamlit.app/
+## Live dashboard : 
+https://finance-with-simran-european-bank-churn-segmentation-app-ahbwvy.streamlit.app/
 
 ## Project objective
 
